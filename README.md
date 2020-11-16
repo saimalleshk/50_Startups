@@ -1,6 +1,7 @@
 # 50_Startups
 
 ## Project Description:
+(Data from kaggle)
 You got 50 companies in total New York and Florida and what they have is they have some extracts from their profit and loss statements from their income report.
 
 So How much did the company in this given financial year that you're analyzing and for how much in that year did it spend on research and development?
